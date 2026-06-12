@@ -1,5 +1,5 @@
 Soft Reset
-A Soft Reset is the least destructive way to undo a commit. It moves the HEAD pointer back to a specific commit in history, but it leaves your files exactly as they are.
+A Soft Reset is the least destructive way to undo a commit. It moves the HEAD pointer back to a specific commit in history, but it leaves your files exactly as they are with nothing changed in them 
 
 Differences between soft reset, mixed reset and hard reset
 
